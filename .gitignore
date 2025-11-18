@@ -1,0 +1,9 @@
+*.csv
+*.zip
+*.xlsx
+*.xlsx#
+*.txt
+*.fasta
+.idea/*
+.ipynb_checkpoints
+esm2_silac_classifier
